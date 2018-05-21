@@ -1,0 +1,36 @@
+h1, h2 {
+  color: seagreen;
+  text-align: center;
+}
+
+p {
+  color: forestgreen;
+}
+
+div {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 50px;
+  background: white;
+  font-family: Verdana, sans-serif;
+}
+
+body {
+  background: mintcream;
+}
+
+table {
+  border: 2px solid green;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: mintcream;
+}
+
+th, td {
+  border: 1px solid seagreen;
+  padding: 5px;
+}
